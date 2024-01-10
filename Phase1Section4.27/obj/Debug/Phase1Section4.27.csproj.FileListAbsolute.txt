@@ -1,0 +1,7 @@
+C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\Phase1Section4.27\Phase1Section4.27\bin\Debug\Phase1Section4.27.exe.config
+C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\Phase1Section4.27\Phase1Section4.27\bin\Debug\Phase1Section4.27.exe
+C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\Phase1Section4.27\Phase1Section4.27\bin\Debug\Phase1Section4.27.pdb
+C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\Phase1Section4.27\Phase1Section4.27\obj\Debug\Phase1Section4.27.csproj.AssemblyReference.cache
+C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\Phase1Section4.27\Phase1Section4.27\obj\Debug\Phase1Section4.27.csproj.CoreCompileInputs.cache
+C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\Phase1Section4.27\Phase1Section4.27\obj\Debug\Phase1Section4.27.exe
+C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\Phase1Section4.27\Phase1Section4.27\obj\Debug\Phase1Section4.27.pdb
